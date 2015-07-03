@@ -1,0 +1,101 @@
+A:link,
+A:active {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+A:visited {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+A:hover {
+    font: 9px verdana, sans-serif;
+    color: #666666;
+    font-weight: bold;
+    background-color: #E7EEF4;
+}
+A.ver10:link,
+A:active {
+    font: 10px verdana, sans-serif;
+    color: #50AEF6;
+    font-weight: bold;
+    text-decoration: none;
+}
+A.ver10:visited {
+    font: 10px verdana, sans-serif;
+    color: #50AEF6;
+    font-weight: bold;
+    text-decoration: none;
+}
+A.ver10:hover {
+    font: 10px verdana, sans-serif;
+    color: #666666;
+    font-weight: bold;
+    background-color: #66CCFF;
+}
+A.ver9:link,
+A:active {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+A.ver9:visited {
+    font: 9px verdana, sans-serif;
+    color: #999999;
+    font-weight: bold;
+    text-decoration: none;
+}
+A.ver9:hover {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #000000;
+}
+BODY {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+TD,
+TH,
+.BOD,
+FONT {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+.text {
+    font: 9px verdana, sans-serif;
+    color: #CCCCCC;
+    font-weight: normal;
+}
+.name {
+    font: 9px verdana, sans-serif;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+.title {
+    font: 14px verdana, arial, helvetica, sans-serif;
+    color: #CCCCCC;
+    font-weight: normal;
+}
+.ver10 {
+    font: 10px verdana, arial, helvetica, sans-serif;
+    color: #FFFFFF;
+}
+.ver9 {
+    font: 9px verdana, arial, helvetica, sans-serif;
+    color: #FFFFFF;
+}
+.red {
+    font: 10px verdana, arial, helvetica, sans-serif;
+    color: #FF3333;
+}
+.subtle {
+    font: 9px verdana, arial, helvetica, sans-serif;
+    color: #666666;
+}
