@@ -1,0 +1,11 @@
+Hard Drive	1TB SAMSUNG Spinpoint F3
+CD/DVD Burner 	LITE-ON Black SATA iHAS124-04
+Power Supply	Corsair TX650W CMPSU-650TX 650W
+Graphics Card	MSI N460GTX CYCLONE 1 GB
+Processor	Intel i5 760 
+Motherboard	Maximus III GENE
+Case		LIAN LI PC-A05NB
+Memory		Patriot Memory 'Sector 5' G Series 4GB
+Monitor		ASUS VH236H 23"" Widescreen LCD Monitor
+CPU cooler	Cooler Master Hyper 212+ (aftermarket)
+		Default i5 cooler

@@ -7,6 +7,10 @@ body {
 
 h1 {}
 
+hr {
+    border-color: #9A9A9A;
+}
+
 #name {
     font-family: 'Roboto Slab', serif;
     margin-top: 0px;
