@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #FFF7E4;
+    font-size: 14px;
 }
 
 h1 {}
@@ -24,4 +25,12 @@ hr {
     padding-top: 70px;
     padding-bottom: 40px;
     background-color: #CCC6A6;
+}
+
+#about {
+    font-size: 20px;
+}
+
+#phrase {
+    color: #DB1C00;
 }
