@@ -29,7 +29,7 @@ hr {
     color: white;
     padding-top: 70px;
     padding-bottom: 40px;
-    background-image:url("../img/rain_mod.gif");
+    background:url("../img/rain_mod.gif") no-repeat center center fixed;
     /* Full height */
     height: 100%;
 
@@ -38,6 +38,10 @@ hr {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
 }
 
 #about {
