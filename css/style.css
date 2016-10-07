@@ -2,11 +2,16 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #FFF7E4;
+    background-color: #111a24;
     font-size: 14px;
+    color: #FFFFFF
 }
 
 h1 {}
+
+a {
+  color: #DB1C00
+}
 
 hr {
     border-color: #9A9A9A;
@@ -24,7 +29,15 @@ hr {
     color: white;
     padding-top: 70px;
     padding-bottom: 40px;
-    background-color: #CCC6A6;
+    background-image:url("../img/rain_mod.gif");
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #about {
