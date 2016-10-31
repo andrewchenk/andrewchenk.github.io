@@ -28,7 +28,7 @@ $(document).ready(function () {
         //Rarer nouns
         var rareNouns = ["ships off the shoulder of Orion", "C-beams glittering in the dark near Tannhäuser Gate", "ZALGO", "the dog that he is, or was Jonathan actually the fish? Maybe he was the frog"]
 
-        //Function that chooses random element from array 
+        //Function that chooses random element from array
         function chooseRandomFromArray(arrayName) {
             return (arrayName[Math.floor(Math.random() * arrayName.length)]);
         };
