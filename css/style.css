@@ -17,6 +17,10 @@ a.red {
   color: #DB1C01;
 }
 
+.container {
+  padding: 50px;
+}
+
 hr {
     border-color: #9A9A9A;
 }
@@ -28,7 +32,7 @@ hr {
 }
 
 #header {
-    font-size: 20px;
+    font-size: 25px;
     color: white;
     padding-top: 70px;
     padding-bottom: 30px;
