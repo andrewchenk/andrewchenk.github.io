@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - 3 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	font-family: 'Roboto Slab', serif;
+	background-color: #224044; color: white;
+}
+a { color: #77CCAA; }
+a:hover { color: #AAFFBB; }
+h1 { line-height: 1.3em; margin-bottom: 32px; }
+h2 { margin-bottom: 1em; }
+h3 a { color: #FF8855;}
+h3 a:hover { color: #FF9966; }
+
+#bio { width: 80%; font-size: larger; }
+#bio img { float: left; width: 38%; max-width: 256px; padding: 0px 32px 16px 0px; }
+
+.page-header small {
+	color: #ccc;
+}
+
+
+.portfolio-item {
+	padding: 8px 16px 32px 16px;
+}
+
+.portfolio-item h3 { height: 2em; }
+/*
+.portfolio-item p { display: block; position: absolute; z-index:10; background: rgba(0,0,0,0.65); padding: 4px 16px 16px 16px; }
+
+.portfolio-item p { display: none; }
+.portfolio-item:hover { background-color: black; }
+.portfolio-item:hover p { display: block; position: absolute; z-index:10; background-color: black; padding: 0px 16px 16px 16px;}
+*/
+
+footer {
+    margin: 50px 0;
+}
