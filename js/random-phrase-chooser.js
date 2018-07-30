@@ -17,13 +17,13 @@ $(document).ready(function () {
     function getRandomPhrase() {
 
         //Low chance set phrases
-        var rarePhrase = ["stops being a dog", "stops being a frog", "gets off the internet", "makes massive gains", "stops talking in the third person", "wakes up", "exercises gymnopedies", "folds 1000 cranes", "realizes the nets are vast"];
+        var rarePhrase = ["stops being a dog", "stops being a frog", "gets off the internet", "makes massive gains", "stops talking in the third person", "wakes up", "exercises gymnopedies", "folds 1000 cranes", "realizes that the nets are vast"];
 
         //Array of verbs for random phrases
-        var verbs = ["finds", "plays", "sees", "becomes", "watches", "falls in love with", "realizes", "discovers", "passes", "stops being", "takes", "meets", "gets", "obtains", "accepts", "adopts", "builds", "avoids", "drops", "chases", "inhales", "obeys", "visits", "passes", "notices", "reaches", "thinks about", "remembers", "recalls"];
+        var verbs = ["finds", "plays", "sees", "becomes", "watches", "falls in love with", "realizes", "discovers", "passes", "stops being", "takes", "meets", "gets", "obtains", "accepts", "adopts", "builds", "avoids", "drops", "chases", "inhales", "obeys", "visits", "passes", "notices", "reaches", "thinks about", "remembers", "recalls", "thinks of", "comes up with"];
 
         //Array of nouns for random phrases
-        var nouns = ["the pasta on the piano", "the sunset", "rainfall", "the sunrise", "nightfall", "a dog", "a frog", "a fish", "those moments lost in time", "tears in rain", "a real man", "a torrential downpour", "ferrets", "slipknot paranoia", "faster-than-light travel", "a flicker of light", "singularity", "the event horizon", "the ceiling fan", "photosynthesis", "a bear", "sea coral", "some birds", "the beat", "the groove", "daikon", "an eldritch horror", "a mimetic codifier", "the final initiation sequence"];
+        var nouns = ["the pasta on the piano", "the sunset", "rainfall", "the sunrise", "nightfall", "a dog", "a frog", "a fish", "those moments lost in time", "tears in rain", "a real man", "a torrential downpour", "ferrets", "slipknot paranoia", "faster-than-light travel", "a flicker of light", "singularity", "the event horizon", "the ceiling fan", "photosynthesis", "a bear", "sea coral", "some birds", "the beat", "the groove", "daikon", "an eldritch horror", "a mimetic codifier", "the final initiation sequence", "a telecaster stripe", "the flint hills", "the dark fields", "the unlimited scramble", "a miasma sky", "an aquarium", "some imaginary folklore", "the final view", "a line of latitude"];
 
         //Rarer nouns
         var rareNouns = ["ships off the shoulder of Orion", "C-beams glittering in the dark near Tannhäuser Gate", "ZALGO", "good vibrations"]
