@@ -17,16 +17,16 @@ $(document).ready(function () {
     function getRandomPhrase() {
 
         //Low chance set phrases
-        var rarePhrase = ["stops being a dog", "stops being a frog", "gets off the internet", "ランダムに日本語を使うのを止められたら", "cuts some weight", "stops talking in the third person", "wakes up", "forgets about his one-sided love", "fights you irl", "makes gymnopedies", "folds 1000 cranes"];
+        var rarePhrase = ["stops being a dog", "stops being a frog", "gets off the internet", "makes massive gains", "stops talking in the third person", "wakes up", "exercises gymnopedies", "folds 1000 cranes", "realizes the nets are vast"];
 
         //Array of verbs for random phrases
-        var verbs = ["finds", "plays", "sees", "becomes", "watches", "falls in love with", "realizes", "discovers", "passes", "stops being", "takes", "meets", "gets", "obtains", "accepts", "adopts", "builds", "avoids", "drops", "chases", "inhales", "obeys", "visits", "passes", "notices", "reaches"];
+        var verbs = ["finds", "plays", "sees", "becomes", "watches", "falls in love with", "realizes", "discovers", "passes", "stops being", "takes", "meets", "gets", "obtains", "accepts", "adopts", "builds", "avoids", "drops", "chases", "inhales", "obeys", "visits", "passes", "notices", "reaches", "thinks about", "remembers", "recalls"];
 
         //Array of nouns for random phrases
-        var nouns = ["the pasta on the piano", "the sunset", "rainfall", "the sunrise", "nightfall", "a dog", "a frog", "a fish", "those moments lost in time", "tears in rain", "a real man", "a torrential downpour", "ferrets", "slipknot paranoia", "faster-than-light travel", "a flicker of light", "singularity", "the event horizon", "the ceiling fan", "photosynthesis", "a bear", "sea coral", "some birds", "the beat", "the groove", "daikon", "anime", "...true love"];
+        var nouns = ["the pasta on the piano", "the sunset", "rainfall", "the sunrise", "nightfall", "a dog", "a frog", "a fish", "those moments lost in time", "tears in rain", "a real man", "a torrential downpour", "ferrets", "slipknot paranoia", "faster-than-light travel", "a flicker of light", "singularity", "the event horizon", "the ceiling fan", "photosynthesis", "a bear", "sea coral", "some birds", "the beat", "the groove", "daikon", "an eldritch horror", "a mimetic codifier", "the final initiation sequence"];
 
         //Rarer nouns
-        var rareNouns = ["ships off the shoulder of Orion", "C-beams glittering in the dark near Tannhäuser Gate", "ZALGO", "the dog that he is, or was Jonathan actually the fish? Maybe he was the frog"]
+        var rareNouns = ["ships off the shoulder of Orion", "C-beams glittering in the dark near Tannhäuser Gate", "ZALGO", "good vibrations"]
 
         //Function that chooses random element from array
         function chooseRandomFromArray(arrayName) {
